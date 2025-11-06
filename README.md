@@ -184,12 +184,12 @@ npm run build
 ## 👥 Team Members
 
 **Sapna Sharma**  
-📧 Email: sapna.sharma@university.edu  
-🔗 GitHub: [@sapnasharma](https://github.com/sapnasharma)  
+📧 Email: 22amtics081@gmail.com  
+🔗 GitHub: [@sapnasharma](https://github.com/Sapna190)  
 🆔 ID: 202203103510081
 
 **Mansi Rajput**  
-📧 Email: mansi.rajput@university.edu  
+📧 Email: 22amtics231@gmail.com  
 🔗 GitHub: [@mansirajput07](https://github.com/mansirajput07)  
 🆔 ID: 202203103510231
 
@@ -218,14 +218,13 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 
 ## 🔗 Links
 
-- **GitHub Repository**: [quantum-logistics-optimization](https://github.com/mansirajput07/quantum-logistics-optimization)
-- **Live Demo**: [quantum-logistics-demo.netlify.app](https://quantum-logistics-demo.netlify.app)
+- **GitHub Repository**: [quantum-logistics-optimization](https://github.com/mansirajput07/quantum_logistics)
 - **Documentation**: [docs.quantum-logistics.dev](https://docs.quantum-logistics.dev)
 
 ## 🙏 Acknowledgments
 
-- Course Instructor: Dr. [Instructor Name]
-- Institution: [University Name]
+- Course Instructor: Santosh Saha]
+- Institution: UKA Tarsadia University
 - IBM Qiskit Documentation
 - PennyLane Quantum ML Library
 - React.js and Lucide React Teams
